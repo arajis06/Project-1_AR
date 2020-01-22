@@ -4,7 +4,7 @@
 
 ### Title: Oh, The PLaces We'll Go...and Eat!
 
-#### LINK: https://conniepope.github.io/Project-1/
+#### LINK:  https://arajis06.github.io/Project-1_AR/
 
 Are you a FOODIE who likes to travel and explore your tastebuds?
 Think of all the amazing cuisines you can experience at top resturants in that area.
